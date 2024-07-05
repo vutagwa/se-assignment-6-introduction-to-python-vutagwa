@@ -119,10 +119,10 @@ Answer the following questions based on your understanding of Python programming
 
  - Adding elements
      - numbers.append(6)
-     - my_dict["email"] = "alice@example.com"
+     - my_dict["email"] = "name@example.com"
 
      - print(numbers)  # Output: [1, 2, 3, 4, 5, 6]
-     - print(my_dict)  # Output: {'name': 'Alice', 'age': 25, 'city': 'Wonderland', 'email': 'alice@example.com'}
+     - print(my_dict)  # Output: {'name': 'Alice', 'age': 25, 'city': 'Wonderland', 'email': 'name@example.com'}
 
 ### Exception Handling
 #### What is exception handling in Python? Provide an example of how to use try, except, and finally blocks to handle errors in a Python script.

@@ -9,7 +9,7 @@ Answer the following questions based on your understanding of Python programming
 
 ## Introduction to Python
 ### Python Basics
-####vWhat is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.
+#### What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.
 
  - Python is a high-level, interpreted programming language known for its simplicity and readability. Key features include:
 
